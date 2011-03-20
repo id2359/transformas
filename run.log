@@ -1,0 +1,947 @@
+snpindices;
+snpindices;
+snpindices;
+snpindices;304 306 319 321 323 324 335 343 355 358 359 373 383 388 394 399 406 409 418 424 427 432 433 439 464 465 477 480 485 488 490 494 511 517 523 526 529 535 536 549 550 554 556 559 565 568 569 570 576 577 581 583 586 589 596 602 620 621 622 633 639 645 648 649 669 675 690 711 717 720 721 724 733 743 760 769 771 778 789 791 792 795 804 835 836 839 849 858 861 867 879 882 883 887 892 897 906 909 915 927 929 948 950 958 963 964 966 969 972 981 983 987 991 1001 1003 1012 1017 1020 1021 1035 1038 1065 1068 1071 1074 1078 1079 1080 1085 1092 1098 1101 1102 1122 1123 1130 1134 1135 1137 1138 1139 1140 1143 1147 1148 1149 1152 1154 1165 1171 1172 1173 1177 1178 1184 1185 1187 1191 1195 1202 1203 1207 1208 1209
+reference sequence name  = BCU70431
+prop;5;cols;25;refseq;BCU70431;refpos;26
+prop;1;cols;146;refseq;BCU70431;refpos;147
+prop;3*1;cols;93;refseq;BCU70431;refpos;94
+prop;9;cols;17 36;refseq;BCU70431;refpos;18 37
+prop;12;cols;72;refseq;BCU70431;refpos;73
+prop;3;cols;63 68;refseq;BCU70431;refpos;64 69
+prop;9*1;cols;80 86;refseq;BCU70431;refpos;81 87
+prop;thai;cols;27 35;refseq;BCU70431;refpos;28 36
+prop;17;cols;40 54;refseq;BCU70431;refpos;41 55
+prop;7;cols;41;refseq;BCU70431;refpos;42
+prop;11;cols;87;refseq;BCU70431;refpos;88
+prop;6;cols;8;refseq;BCU70431;refpos;9
+prop;7*g;cols;65 89;refseq;BCU70431;refpos;66 90
+prop;16;cols;37;refseq;BCU70431;refpos;38
+prop;8;cols;5 95;refseq;BCU70431;refpos;6 96
+prop;2;cols;52;refseq;BCU70431;refpos;53
+prop;8*1;cols;68 95;refseq;BCU70431;refpos;69 96
+prop;13;cols;74;refseq;BCU70431;refpos;75
+prop;phym;cols;0;refseq;BCU70431;refpos;1
+sequence;AF143795;snps;25
+sequence;AY036066;snps;60 121
+sequence;cp000614;snps;60 121
+sequence;EU563933;snps;26 60 121 127 144
+sequence;AF143788;snps;45 52 99 143
+sequence;AF143789;snps;35 99
+sequence;AF143784;snps;56
+sequence;AF143786;snps;45
+sequence;AF143787;snps;45 52 54 143
+sequence;AF143780;snps;94
+sequence;AF143783;snps;36 37 69
+sequence;EU079009;snps;45 52 54 63 86
+sequence;FJ555026;snps;14
+sequence;AM922303;snps;33
+sequence;AF143793;snps;60 121
+sequence;AY951893;snps;123
+sequence;AF456040;snps;64 69 89
+sequence;AY099313;snps;29 64 99
+sequence;AF456046;snps;35 99
+sequence;AY099315;snps;5 34 109 115 149 157
+sequence;AF456044;snps;79 108
+sequence;cp000086;snps;28 36 58 59 70 71 78 118
+sequence;AY619683;snps;41 55 67 101
+sequence;AF323985;snps;90
+sequence;AF456021;snps;123
+sequence;AF456024;snps;159
+sequence;AF456026;snps;81
+sequence;AF456027;snps;60 90 121
+sequence;AF456028;snps;60 121
+sequence;AF456029;snps;9 10 20 62 68 82
+sequence;AY392090;snps;61
+sequence;EU079003;snps;50
+sequence;EU079001;snps;50
+sequence;EU079006;snps;45
+sequence;EU079007;snps;45 49
+sequence;EU079005;snps;45 52 63
+sequence;EU079008;snps;45
+sequence;AY598028;snps;30 134
+sequence;cp000526;snps;15 28 56 58 59 70 71 98 136
+sequence;AF143792;snps;60 90 121
+sequence;AF143791;snps;60 121
+sequence;AF143790;snps;35 99
+sequence;AY951890;snps;123 124 126
+sequence;cp000440;snps;66 90
+sequence;AY951892;snps;123 133
+sequence;cp001025;snps;25 72
+sequence;AY951894;snps;123
+sequence;AY951895;snps;134 159
+sequence;AY951899;snps;95
+sequence;AM905032;snps;38 117 143
+sequence;AJ544692;snps;33 43 44 57 92 96 102 134
+sequence;EF427828;snps;53
+sequence;EF427829;snps;53
+sequence;AF456051;snps;69 96
+sequence;AF456050;snps;77
+sequence;EF427820;snps;135 139 148
+sequence;EF427821;snps;53
+sequence;EF427822;snps;53
+sequence;EF427823;snps;60 121
+sequence;EF427824;snps;11 34
+sequence;EF427825;snps;53
+sequence;EF427826;snps;53
+sequence;EF427827;snps;34
+sequence;AF456033;snps;9 10 20 62 68 82
+sequence;AF456032;snps;18 37
+sequence;AF456031;snps;35 99
+sequence;AF456037;snps;123
+sequence;AF456034;snps;81 96 125
+sequence;AY780511;snps;6 21 35 123
+sequence;AY619684;snps;41 67
+sequence;cp000868;snps;125
+sequence;EU079015;snps;25
+sequence;EU079014;snps;25
+sequence;EU079011;snps;45
+sequence;EU079010;snps;45
+sequence;EU079013;snps;25
+sequence;EU079012;snps;25
+sequence;AM748103;snps;18
+sequence;AM748100;snps;73
+sequence;EU079019;snps;29 64 99
+sequence;AY099316;snps;5 34 109 115
+sequence;AY951882;snps;80 84 93 104 106 111 114 116 119
+sequence;AY951884;snps;128
+sequence;EF427839;snps;34 139 146 153 154
+sequence;EF427838;snps;53
+sequence;AY951898;snps;41
+sequence;EF427833;snps;25
+sequence;EF427832;snps;53
+sequence;EF427830;snps;53
+sequence;EF427837;snps;53
+sequence;EF427836;snps;13
+sequence;EF427835;snps;34 55 128
+sequence;AF456006;snps;42 43
+sequence;AF456007;snps;25 32
+sequence;AF456005;snps;90
+sequence;AJ786367;snps;16 36 37 69 122
+sequence;AF456003;snps;25
+sequence;AF456008;snps;56 99
+sequence;EF490985;snps;60
+sequence;EF427789;snps;8
+sequence;cp000548;snps;15 28 56 58 59 70 71 98 136
+sequence;FJ555025;snps;14
+sequence;AF456059;snps;6 96
+sequence;BCU70431;snps;125
+sequence;cp000546;snps;15 28 56 58 59 70 71 98 136
+sequence;AF456058;snps;96 125
+sequence;AY324808;snps;9 10 20 62 68 76 82 108
+sequence;EF427809;snps;12 14
+sequence;EF427801;snps;69 108
+sequence;AF323971;snps;9 10 20 62 68 82
+sequence;AF456030;snps;9 10 20 62 68 82
+sequence;cp000151;snps;72
+sequence;cp000124;snps;15 28 56 58 59 70 71 136
+sequence;AY099311;snps;81 87
+sequence;AY099312;snps;18 74 123
+sequence;EF427813;snps;138
+sequence;EF427816;snps;160
+sequence;EF427819;snps;53
+sequence;EF427818;snps;53
+sequence;AY951902;snps;113 145 146 151 155
+sequence;AY951903;snps;83 85 150 161 162 163 164
+sequence;AY951900;snps;56 128
+sequence;AY951907;snps;60 121
+sequence;AY951904;snps;22
+sequence;AY951909;snps;60 121
+sequence;AF456019;snps;17 99
+sequence;AY099314;snps;34 112
+sequence;cp001043;snps;1 3 4 6 17 19 20 21 28 29 33 35 39 40 41 46 47 48 51 58 60 61 62 66 68 70 92 97 100 110 118 123 131 139 140 141 142 156 158
+sequence;AF456014_2;snps;139
+sequence;AF456014_3;snps;139
+sequence;AF456014_1;snps;139
+sequence;AF456015;snps;88 107
+sequence;AF456016;snps;117
+sequence;EF602578;snps;45 52 54
+sequence;EF602575;snps;147
+sequence;EF602576;snps;24
+sequence;FJ555045;snps;62 77 92 128
+sequence;FJ555046;snps;91 128 130 152
+sequence;FJ555043;snps;56 120
+sequence;FJ555042;snps;62 77 128 129
+sequence;AF456067;snps;88
+sequence;AY951914;snps;25
+sequence;AY619682;snps;7 41 55
+sequence;cp000572;snps;15 28 56 58 59 70 71 136
+sequence;AY951911;snps;2 90
+sequence;AY951910;snps;25 27 123
+sequence;AY951913;snps;25
+sequence;AM922302;snps;33
+sequence;AF456011;snps;38 105
+sequence;AM922300;snps;41
+sequence;AF456068;snps;23
+sequence;AF456069;snps;17 79
+sequence;AM748105;snps;5 34 109 115
+sequence;AF456060;snps;33 43 44 52 57 92 96 102 134
+sequence;AF456061;snps;33 43 44 57 92 96 102 134
+sequence;AF456063;snps;65
+sequence;AY951891;snps;123 126
+sequence;ap009385;snps;125
+sequence;EF408665;snps;75
+sequence;AY753187;snps;9 10 20 62 68 76 82 108
+sequence;EU079020;snps;29 31 64 99
+sequence;EU079021;snps;29 64 99
+sequence;EU079022;snps;45
+sequence;EU079023;snps;18 37
+sequence;AM748098;snps;62 132 137
+sequence;AM748099;snps;41
+sequence;FJ555033;snps;79 110
+sequence;FJ555034;snps;79
+sequence;cp000010;snps;15 28 56 58 59 70 71 98 136
+sequence;AM748094;snps;5
+sequence;AM748095;snps;12 17
+sequence;AF143775;snps;125
+sequence;AF143779;snps;103
+sequence;AF143778;snps;53
+SNP;column;0;AC
+SNP;column;1;AC
+SNP;column;2;AC
+SNP;column;3;AC
+SNP;column;4;AC
+SNP;column;5;AC
+SNP;column;6;AC
+SNP;column;7;AC
+SNP;column;8;AC
+SNP;column;9;AC
+SNP;column;10;AC
+SNP;column;11;AC
+SNP;column;12;AC
+SNP;column;13;AC
+SNP;column;14;AC
+SNP;column;15;AC
+SNP;column;16;AC
+SNP;column;17;AC
+SNP;column;18;AC
+SNP;column;19;AC
+SNP;column;20;AC
+SNP;column;21;AC
+SNP;column;22;AC
+SNP;column;23;AC
+SNP;column;24;AC
+SNP;column;25;AC
+SNP;column;26;AC
+SNP;column;27;AC
+SNP;column;28;AC
+SNP;column;29;AC
+SNP;column;30;AC
+SNP;column;31;AC
+SNP;column;32;AC
+SNP;column;33;AC
+SNP;column;34;AC
+SNP;column;35;AC
+SNP;column;36;AC
+SNP;column;37;AC
+SNP;column;38;AC
+SNP;column;39;AC
+SNP;column;40;AC
+SNP;column;41;AC
+SNP;column;42;AC
+SNP;column;43;AC
+SNP;column;44;AC
+SNP;column;45;AC
+SNP;column;46;AC
+SNP;column;47;AC
+SNP;column;48;AC
+SNP;column;49;AC
+SNP;column;50;AC
+SNP;column;51;AC
+SNP;column;52;AC
+SNP;column;53;AC
+SNP;column;54;AC
+SNP;column;55;AC
+SNP;column;56;AC
+SNP;column;57;AC
+SNP;column;58;AC
+SNP;column;59;AC
+SNP;column;60;AC
+SNP;column;61;AC
+SNP;column;62;AC
+SNP;column;63;AC
+SNP;column;64;AC
+SNP;column;65;AC
+SNP;column;66;AC
+SNP;column;67;AC
+SNP;column;68;AC
+SNP;column;69;AC
+SNP;column;70;AC
+SNP;column;71;AC
+SNP;column;72;AC
+SNP;column;73;AC
+SNP;column;74;AC
+SNP;column;75;AC
+SNP;column;76;AC
+SNP;column;77;AC
+SNP;column;78;AC
+SNP;column;79;AC
+SNP;column;80;AC
+SNP;column;81;AC
+SNP;column;82;AC
+SNP;column;83;AC
+SNP;column;84;AC
+SNP;column;85;AC
+SNP;column;86;AC
+SNP;column;87;AC
+SNP;column;88;AC
+SNP;column;89;AC
+SNP;column;90;AC
+SNP;column;91;AC
+SNP;column;92;AC
+SNP;column;93;AC
+SNP;column;94;AC
+SNP;column;95;AC
+SNP;column;96;AC
+SNP;column;97;AC
+SNP;column;98;AC
+SNP;column;99;AC
+SNP;column;100;AC
+SNP;column;101;AC
+SNP;column;102;AC
+SNP;column;103;AC
+SNP;column;104;AC
+SNP;column;105;AC
+SNP;column;106;AC
+SNP;column;107;AC
+SNP;column;108;AC
+SNP;column;109;AC
+SNP;column;110;AC
+SNP;column;111;AC
+SNP;column;112;AC
+SNP;column;113;AC
+SNP;column;114;AC
+SNP;column;115;AC
+SNP;column;116;AC
+SNP;column;117;AC
+SNP;column;118;AC
+SNP;column;119;AC
+SNP;column;120;AC
+SNP;column;121;AC
+SNP;column;122;AC
+SNP;column;123;AC
+SNP;column;124;AC
+SNP;column;125;AC
+SNP;column;126;AC
+SNP;column;127;AC
+SNP;column;128;AC
+SNP;column;129;AC
+SNP;column;130;AC
+SNP;column;131;AC
+SNP;column;132;AC
+SNP;column;133;AC
+SNP;column;134;AC
+SNP;column;135;AC
+SNP;column;136;AC
+SNP;column;137;AC
+SNP;column;138;AC
+SNP;column;139;AC
+SNP;column;140;AC
+SNP;column;141;AC
+SNP;column;142;AC
+SNP;column;143;AC
+SNP;column;144;AC
+SNP;column;145;AC
+SNP;column;146;AC
+SNP;column;147;AC
+SNP;column;148;AC
+SNP;column;149;AC
+SNP;column;150;AC
+SNP;column;151;AC
+SNP;column;152;AC
+SNP;column;153;AC
+SNP;column;154;AC
+SNP;column;155;AC
+SNP;column;156;AC
+SNP;column;157;AC
+SNP;column;158;AC
+SNP;column;159;AC
+SNP;column;160;AC
+SNP;column;161;AC
+SNP;column;162;AC
+SNP;column;163;AC
+snpindices;304 306 319 321 323 324 335 343 355 358 359 373 383 388 394 399 406 409 418 424 427 432 433 439 464 465 477 480 485 488 490 494 511 517 523 526 529 535 536 549 550 554 556 559 565 568 569 570 576 577 581 583 586 589 596 602 620 621 622 633 639 645 648 649 669 675 690 711 717 720 721 724 733 743 760 769 771 778 789 791 792 795 804 835 836 839 849 858 861 867 879 882 883 887 892 897 906 909 915 927 929 948 950 958 963 964 966 969 972 981 983 987 991 1001 1003 1012 1017 1020 1021 1035 1038 1065 1068 1071 1074 1078 1079 1080 1085 1092 1098 1101 1102 1122 1123 1130 1134 1135 1137 1138 1139 1140 1143 1147 1148 1149 1152 1154 1165 1171 1172 1173 1177 1178 1184 1185 1187 1191 1195 1202 1203 1207 1208 1209
+reference sequence name  = BCU70431
+prop;5;cols;25;refseq;BCU70431;refpos;26
+prop;1;cols;146;refseq;BCU70431;refpos;147
+prop;3*1;cols;93;refseq;BCU70431;refpos;94
+prop;9;cols;17 36;refseq;BCU70431;refpos;18 37
+prop;12;cols;72;refseq;BCU70431;refpos;73
+prop;3;cols;63 68;refseq;BCU70431;refpos;64 69
+prop;9*1;cols;80 86;refseq;BCU70431;refpos;81 87
+prop;thai;cols;27 35;refseq;BCU70431;refpos;28 36
+prop;17;cols;40 54;refseq;BCU70431;refpos;41 55
+prop;7;cols;41;refseq;BCU70431;refpos;42
+prop;11;cols;87;refseq;BCU70431;refpos;88
+prop;6;cols;8;refseq;BCU70431;refpos;9
+prop;7*g;cols;65 89;refseq;BCU70431;refpos;66 90
+prop;16;cols;37;refseq;BCU70431;refpos;38
+prop;8;cols;5 95;refseq;BCU70431;refpos;6 96
+prop;2;cols;52;refseq;BCU70431;refpos;53
+prop;8*1;cols;68 95;refseq;BCU70431;refpos;69 96
+prop;13;cols;74;refseq;BCU70431;refpos;75
+prop;phym;cols;0;refseq;BCU70431;refpos;1
+sequence;AF143795;snps;25
+sequence;AY036066;snps;60 121
+sequence;cp000614;snps;60 121
+sequence;EU563933;snps;26 60 121 127 144
+sequence;AF143788;snps;45 52 99 143
+sequence;AF143789;snps;35 99
+sequence;AF143784;snps;56
+sequence;AF143786;snps;45
+sequence;AF143787;snps;45 52 54 143
+sequence;AF143780;snps;94
+sequence;AF143783;snps;36 37 69
+sequence;EU079009;snps;45 52 54 63 86
+sequence;FJ555026;snps;14
+sequence;AM922303;snps;33
+sequence;AF143793;snps;60 121
+sequence;AY951893;snps;123
+sequence;AF456040;snps;64 69 89
+sequence;AY099313;snps;29 64 99
+sequence;AF456046;snps;35 99
+sequence;AY099315;snps;5 34 109 115 149 157
+sequence;AF456044;snps;79 108
+sequence;cp000086;snps;28 36 58 59 70 71 78 118
+sequence;AY619683;snps;41 55 67 101
+sequence;AF323985;snps;90
+sequence;AF456021;snps;123
+sequence;AF456024;snps;159
+sequence;AF456026;snps;81
+sequence;AF456027;snps;60 90 121
+sequence;AF456028;snps;60 121
+sequence;AF456029;snps;9 10 20 62 68 82
+sequence;AY392090;snps;61
+sequence;EU079003;snps;50
+sequence;EU079001;snps;50
+sequence;EU079006;snps;45
+sequence;EU079007;snps;45 49
+sequence;EU079005;snps;45 52 63
+sequence;EU079008;snps;45
+sequence;AY598028;snps;30 134
+sequence;cp000526;snps;15 28 56 58 59 70 71 98 136
+sequence;AF143792;snps;60 90 121
+sequence;AF143791;snps;60 121
+sequence;AF143790;snps;35 99
+sequence;AY951890;snps;123 124 126
+sequence;cp000440;snps;66 90
+sequence;AY951892;snps;123 133
+sequence;cp001025;snps;25 72
+sequence;AY951894;snps;123
+sequence;AY951895;snps;134 159
+sequence;AY951899;snps;95
+sequence;AM905032;snps;38 117 143
+sequence;AJ544692;snps;33 43 44 57 92 96 102 134
+sequence;EF427828;snps;53
+sequence;EF427829;snps;53
+sequence;AF456051;snps;69 96
+sequence;AF456050;snps;77
+sequence;EF427820;snps;135 139 148
+sequence;EF427821;snps;53
+sequence;EF427822;snps;53
+sequence;EF427823;snps;60 121
+sequence;EF427824;snps;11 34
+sequence;EF427825;snps;53
+sequence;EF427826;snps;53
+sequence;EF427827;snps;34
+sequence;AF456033;snps;9 10 20 62 68 82
+sequence;AF456032;snps;18 37
+sequence;AF456031;snps;35 99
+sequence;AF456037;snps;123
+sequence;AF456034;snps;81 96 125
+sequence;AY780511;snps;6 21 35 123
+sequence;AY619684;snps;41 67
+sequence;cp000868;snps;125
+sequence;EU079015;snps;25
+sequence;EU079014;snps;25
+sequence;EU079011;snps;45
+sequence;EU079010;snps;45
+sequence;EU079013;snps;25
+sequence;EU079012;snps;25
+sequence;AM748103;snps;18
+sequence;AM748100;snps;73
+sequence;EU079019;snps;29 64 99
+sequence;AY099316;snps;5 34 109 115
+sequence;AY951882;snps;80 84 93 104 106 111 114 116 119
+sequence;AY951884;snps;128
+sequence;EF427839;snps;34 139 146 153 154
+sequence;EF427838;snps;53
+sequence;AY951898;snps;41
+sequence;EF427833;snps;25
+sequence;EF427832;snps;53
+sequence;EF427830;snps;53
+sequence;EF427837;snps;53
+sequence;EF427836;snps;13
+sequence;EF427835;snps;34 55 128
+sequence;AF456006;snps;42 43
+sequence;AF456007;snps;25 32
+sequence;AF456005;snps;90
+sequence;AJ786367;snps;16 36 37 69 122
+sequence;AF456003;snps;25
+sequence;AF456008;snps;56 99
+sequence;EF490985;snps;60
+sequence;EF427789;snps;8
+sequence;cp000548;snps;15 28 56 58 59 70 71 98 136
+sequence;FJ555025;snps;14
+sequence;AF456059;snps;6 96
+sequence;BCU70431;snps;125
+sequence;cp000546;snps;15 28 56 58 59 70 71 98 136
+sequence;AF456058;snps;96 125
+sequence;AY324808;snps;9 10 20 62 68 76 82 108
+sequence;EF427809;snps;12 14
+sequence;EF427801;snps;69 108
+sequence;AF323971;snps;9 10 20 62 68 82
+sequence;AF456030;snps;9 10 20 62 68 82
+sequence;cp000151;snps;72
+sequence;cp000124;snps;15 28 56 58 59 70 71 136
+sequence;AY099311;snps;81 87
+sequence;AY099312;snps;18 74 123
+sequence;EF427813;snps;138
+sequence;EF427816;snps;160
+sequence;EF427819;snps;53
+sequence;EF427818;snps;53
+sequence;AY951902;snps;113 145 146 151 155
+sequence;AY951903;snps;83 85 150 161 162 163 164
+sequence;AY951900;snps;56 128
+sequence;AY951907;snps;60 121
+sequence;AY951904;snps;22
+sequence;AY951909;snps;60 121
+sequence;AF456019;snps;17 99
+sequence;AY099314;snps;34 112
+sequence;cp001043;snps;1 3 4 6 17 19 20 21 28 29 33 35 39 40 41 46 47 48 51 58 60 61 62 66 68 70 92 97 100 110 118 123 131 139 140 141 142 156 158
+sequence;AF456014_2;snps;139
+sequence;AF456014_3;snps;139
+sequence;AF456014_1;snps;139
+sequence;AF456015;snps;88 107
+sequence;AF456016;snps;117
+sequence;EF602578;snps;45 52 54
+sequence;EF602575;snps;147
+sequence;EF602576;snps;24
+sequence;FJ555045;snps;62 77 92 128
+sequence;FJ555046;snps;91 128 130 152
+sequence;FJ555043;snps;56 120
+sequence;FJ555042;snps;62 77 128 129
+sequence;AF456067;snps;88
+sequence;AY951914;snps;25
+sequence;AY619682;snps;7 41 55
+sequence;cp000572;snps;15 28 56 58 59 70 71 136
+sequence;AY951911;snps;2 90
+sequence;AY951910;snps;25 27 123
+sequence;AY951913;snps;25
+sequence;AM922302;snps;33
+sequence;AF456011;snps;38 105
+sequence;AM922300;snps;41
+sequence;AF456068;snps;23
+sequence;AF456069;snps;17 79
+sequence;AM748105;snps;5 34 109 115
+sequence;AF456060;snps;33 43 44 52 57 92 96 102 134
+sequence;AF456061;snps;33 43 44 57 92 96 102 134
+sequence;AF456063;snps;65
+sequence;AY951891;snps;123 126
+sequence;ap009385;snps;125
+sequence;EF408665;snps;75
+sequence;AY753187;snps;9 10 20 62 68 76 82 108
+sequence;EU079020;snps;29 31 64 99
+sequence;EU079021;snps;29 64 99
+sequence;EU079022;snps;45
+sequence;EU079023;snps;18 37
+sequence;AM748098;snps;62 132 137
+sequence;AM748099;snps;41
+sequence;FJ555033;snps;79 110
+sequence;FJ555034;snps;79
+sequence;cp000010;snps;15 28 56 58 59 70 71 98 136
+sequence;AM748094;snps;5
+sequence;AM748095;snps;12 17
+sequence;AF143775;snps;125
+sequence;AF143779;snps;103
+sequence;AF143778;snps;53
+snpindices;304 306 319 321 323 324 335 343 355 358 359 373 383 388 394 399 406 409 418 424 427 432 433 439 464 465 477 480 485 488 490 494 511 517 523 526 529 535 536 549 550 554 556 559 565 568 569 570 576 577 581 583 586 589 596 602 620 621 622 633 639 645 648 649 669 675 690 711 717 720 721 724 733 743 760 769 771 778 789 791 792 795 804 835 836 839 849 858 861 867 879 882 883 887 892 897 906 909 915 927 929 948 950 958 963 964 966 969 972 981 983 987 991 1001 1003 1012 1017 1020 1021 1035 1038 1065 1068 1071 1074 1078 1079 1080 1085 1092 1098 1101 1102 1122 1123 1130 1134 1135 1137 1138 1139 1140 1143 1147 1148 1149 1152 1154 1165 1171 1172 1173 1177 1178 1184 1185 1187 1191 1195 1202 1203 1207 1208 1209
+reference sequence name  = BCU70431
+prop;5;cols;25;refseq;BCU70431;refpos;26
+prop;1;cols;146;refseq;BCU70431;refpos;147
+prop;3*1;cols;93;refseq;BCU70431;refpos;94
+prop;9;cols;17 36;refseq;BCU70431;refpos;18 37
+prop;12;cols;72;refseq;BCU70431;refpos;73
+prop;3;cols;63 68;refseq;BCU70431;refpos;64 69
+prop;9*1;cols;80 86;refseq;BCU70431;refpos;81 87
+prop;thai;cols;27 35;refseq;BCU70431;refpos;28 36
+prop;17;cols;40 54;refseq;BCU70431;refpos;41 55
+prop;7;cols;41;refseq;BCU70431;refpos;42
+prop;11;cols;87;refseq;BCU70431;refpos;88
+prop;6;cols;8;refseq;BCU70431;refpos;9
+prop;7*g;cols;65 89;refseq;BCU70431;refpos;66 90
+prop;16;cols;37;refseq;BCU70431;refpos;38
+prop;8;cols;5 95;refseq;BCU70431;refpos;6 96
+prop;2;cols;52;refseq;BCU70431;refpos;53
+prop;8*1;cols;68 95;refseq;BCU70431;refpos;69 96
+prop;13;cols;74;refseq;BCU70431;refpos;75
+prop;phym;cols;0;refseq;BCU70431;refpos;1
+sequence;AF143795;snps;25
+sequence;AY036066;snps;60 121
+sequence;cp000614;snps;60 121
+sequence;EU563933;snps;26 60 121 127 144
+sequence;AF143788;snps;45 52 99 143
+sequence;AF143789;snps;35 99
+sequence;AF143784;snps;56
+sequence;AF143786;snps;45
+sequence;AF143787;snps;45 52 54 143
+sequence;AF143780;snps;94
+sequence;AF143783;snps;36 37 69
+sequence;EU079009;snps;45 52 54 63 86
+sequence;FJ555026;snps;14
+sequence;AM922303;snps;33
+sequence;AF143793;snps;60 121
+sequence;AY951893;snps;123
+sequence;AF456040;snps;64 69 89
+sequence;AY099313;snps;29 64 99
+sequence;AF456046;snps;35 99
+sequence;AY099315;snps;5 34 109 115 149 157
+sequence;AF456044;snps;79 108
+sequence;cp000086;snps;28 36 58 59 70 71 78 118
+sequence;AY619683;snps;41 55 67 101
+sequence;AF323985;snps;90
+sequence;AF456021;snps;123
+sequence;AF456024;snps;159
+sequence;AF456026;snps;81
+sequence;AF456027;snps;60 90 121
+sequence;AF456028;snps;60 121
+sequence;AF456029;snps;9 10 20 62 68 82
+sequence;AY392090;snps;61
+sequence;EU079003;snps;50
+sequence;EU079001;snps;50
+sequence;EU079006;snps;45
+sequence;EU079007;snps;45 49
+sequence;EU079005;snps;45 52 63
+sequence;EU079008;snps;45
+sequence;AY598028;snps;30 134
+sequence;cp000526;snps;15 28 56 58 59 70 71 98 136
+sequence;AF143792;snps;60 90 121
+sequence;AF143791;snps;60 121
+sequence;AF143790;snps;35 99
+sequence;AY951890;snps;123 124 126
+sequence;cp000440;snps;66 90
+sequence;AY951892;snps;123 133
+sequence;cp001025;snps;25 72
+sequence;AY951894;snps;123
+sequence;AY951895;snps;134 159
+sequence;AY951899;snps;95
+sequence;AM905032;snps;38 117 143
+sequence;AJ544692;snps;33 43 44 57 92 96 102 134
+sequence;EF427828;snps;53
+sequence;EF427829;snps;53
+sequence;AF456051;snps;69 96
+sequence;AF456050;snps;77
+sequence;EF427820;snps;135 139 148
+sequence;EF427821;snps;53
+sequence;EF427822;snps;53
+sequence;EF427823;snps;60 121
+sequence;EF427824;snps;11 34
+sequence;EF427825;snps;53
+sequence;EF427826;snps;53
+sequence;EF427827;snps;34
+sequence;AF456033;snps;9 10 20 62 68 82
+sequence;AF456032;snps;18 37
+sequence;AF456031;snps;35 99
+sequence;AF456037;snps;123
+sequence;AF456034;snps;81 96 125
+sequence;AY780511;snps;6 21 35 123
+sequence;AY619684;snps;41 67
+sequence;cp000868;snps;125
+sequence;EU079015;snps;25
+sequence;EU079014;snps;25
+sequence;EU079011;snps;45
+sequence;EU079010;snps;45
+sequence;EU079013;snps;25
+sequence;EU079012;snps;25
+sequence;AM748103;snps;18
+sequence;AM748100;snps;73
+sequence;EU079019;snps;29 64 99
+sequence;AY099316;snps;5 34 109 115
+sequence;AY951882;snps;80 84 93 104 106 111 114 116 119
+sequence;AY951884;snps;128
+sequence;EF427839;snps;34 139 146 153 154
+sequence;EF427838;snps;53
+sequence;AY951898;snps;41
+sequence;EF427833;snps;25
+sequence;EF427832;snps;53
+sequence;EF427830;snps;53
+sequence;EF427837;snps;53
+sequence;EF427836;snps;13
+sequence;EF427835;snps;34 55 128
+sequence;AF456006;snps;42 43
+sequence;AF456007;snps;25 32
+sequence;AF456005;snps;90
+sequence;AJ786367;snps;16 36 37 69 122
+sequence;AF456003;snps;25
+sequence;AF456008;snps;56 99
+sequence;EF490985;snps;60
+sequence;EF427789;snps;8
+sequence;cp000548;snps;15 28 56 58 59 70 71 98 136
+sequence;FJ555025;snps;14
+sequence;AF456059;snps;6 96
+sequence;BCU70431;snps;125
+sequence;cp000546;snps;15 28 56 58 59 70 71 98 136
+sequence;AF456058;snps;96 125
+sequence;AY324808;snps;9 10 20 62 68 76 82 108
+sequence;EF427809;snps;12 14
+sequence;EF427801;snps;69 108
+sequence;AF323971;snps;9 10 20 62 68 82
+sequence;AF456030;snps;9 10 20 62 68 82
+sequence;cp000151;snps;72
+sequence;cp000124;snps;15 28 56 58 59 70 71 136
+sequence;AY099311;snps;81 87
+sequence;AY099312;snps;18 74 123
+sequence;EF427813;snps;138
+sequence;EF427816;snps;160
+sequence;EF427819;snps;53
+sequence;EF427818;snps;53
+sequence;AY951902;snps;113 145 146 151 155
+sequence;AY951903;snps;83 85 150 161 162 163 164
+sequence;AY951900;snps;56 128
+sequence;AY951907;snps;60 121
+sequence;AY951904;snps;22
+sequence;AY951909;snps;60 121
+sequence;AF456019;snps;17 99
+sequence;AY099314;snps;34 112
+sequence;cp001043;snps;1 3 4 6 17 19 20 21 28 29 33 35 39 40 41 46 47 48 51 58 60 61 62 66 68 70 92 97 100 110 118 123 131 139 140 141 142 156 158
+sequence;AF456014_2;snps;139
+sequence;AF456014_3;snps;139
+sequence;AF456014_1;snps;139
+sequence;AF456015;snps;88 107
+sequence;AF456016;snps;117
+sequence;EF602578;snps;45 52 54
+sequence;EF602575;snps;147
+sequence;EF602576;snps;24
+sequence;FJ555045;snps;62 77 92 128
+sequence;FJ555046;snps;91 128 130 152
+sequence;FJ555043;snps;56 120
+sequence;FJ555042;snps;62 77 128 129
+sequence;AF456067;snps;88
+sequence;AY951914;snps;25
+sequence;AY619682;snps;7 41 55
+sequence;cp000572;snps;15 28 56 58 59 70 71 136
+sequence;AY951911;snps;2 90
+sequence;AY951910;snps;25 27 123
+sequence;AY951913;snps;25
+sequence;AM922302;snps;33
+sequence;AF456011;snps;38 105
+sequence;AM922300;snps;41
+sequence;AF456068;snps;23
+sequence;AF456069;snps;17 79
+sequence;AM748105;snps;5 34 109 115
+sequence;AF456060;snps;33 43 44 52 57 92 96 102 134
+sequence;AF456061;snps;33 43 44 57 92 96 102 134
+sequence;AF456063;snps;65
+sequence;AY951891;snps;123 126
+sequence;ap009385;snps;125
+sequence;EF408665;snps;75
+sequence;AY753187;snps;9 10 20 62 68 76 82 108
+sequence;EU079020;snps;29 31 64 99
+sequence;EU079021;snps;29 64 99
+sequence;EU079022;snps;45
+sequence;EU079023;snps;18 37
+sequence;AM748098;snps;62 132 137
+sequence;AM748099;snps;41
+sequence;FJ555033;snps;79 110
+sequence;FJ555034;snps;79
+sequence;cp000010;snps;15 28 56 58 59 70 71 98 136
+sequence;AM748094;snps;5
+sequence;AM748095;snps;12 17
+sequence;AF143775;snps;125
+sequence;AF143779;snps;103
+sequence;AF143778;snps;53
+snpindices;304 306 319 321 323 324 335 343 355 358 359 373 383 388 394 399 406 409 418 424 427 432 433 439 464 465 477 480 485 488 490 494 511 517 523 526 529 535 536 549 550 554 556 559 565 568 569 570 576 577 581 583 586 589 596 602 620 621 622 633 639 645 648 649 669 675 690 711 717 720 721 724 733 743 760 769 771 778 789 791 792 795 804 835 836 839 849 858 861 867 879 882 883 887 892 897 906 909 915 927 929 948 950 958 963 964 966 969 972 981 983 987 991 1001 1003 1012 1017 1020 1021 1035 1038 1065 1068 1071 1074 1078 1079 1080 1085 1092 1098 1101 1102 1122 1123 1130 1134 1135 1137 1138 1139 1140 1143 1147 1148 1149 1152 1154 1165 1171 1172 1173 1177 1178 1184 1185 1187 1191 1195 1202 1203 1207 1208 1209
+reference sequence name  = BCU70431
+prop;5;cols;25;refseq;BCU70431;refpos;26
+prop;1;cols;146;refseq;BCU70431;refpos;147
+prop;3*1;cols;93;refseq;BCU70431;refpos;94
+prop;9;cols;17 36;refseq;BCU70431;refpos;18 37
+prop;12;cols;72;refseq;BCU70431;refpos;73
+prop;3;cols;63 68;refseq;BCU70431;refpos;64 69
+prop;9*1;cols;80 86;refseq;BCU70431;refpos;81 87
+prop;thai;cols;27 35;refseq;BCU70431;refpos;28 36
+prop;17;cols;40 54;refseq;BCU70431;refpos;41 55
+prop;7;cols;41;refseq;BCU70431;refpos;42
+prop;11;cols;87;refseq;BCU70431;refpos;88
+prop;6;cols;8;refseq;BCU70431;refpos;9
+prop;7*g;cols;65 89;refseq;BCU70431;refpos;66 90
+prop;16;cols;37;refseq;BCU70431;refpos;38
+prop;8;cols;5 95;refseq;BCU70431;refpos;6 96
+prop;2;cols;52;refseq;BCU70431;refpos;53
+prop;8*1;cols;68 95;refseq;BCU70431;refpos;69 96
+prop;13;cols;74;refseq;BCU70431;refpos;75
+prop;phym;cols;0;refseq;BCU70431;refpos;1
+sequence;AF143795;snps;25
+sequence;AY036066;snps;60 121
+sequence;cp000614;snps;60 121
+sequence;EU563933;snps;26 60 121 127 144
+sequence;AF143788;snps;45 52 99 143
+sequence;AF143789;snps;35 99
+sequence;AF143784;snps;56
+sequence;AF143786;snps;45
+sequence;AF143787;snps;45 52 54 143
+sequence;AF143780;snps;94
+sequence;AF143783;snps;36 37 69
+sequence;EU079009;snps;45 52 54 63 86
+sequence;FJ555026;snps;14
+sequence;AM922303;snps;33
+sequence;AF143793;snps;60 121
+sequence;AY951893;snps;123
+sequence;AF456040;snps;64 69 89
+sequence;AY099313;snps;29 64 99
+sequence;AF456046;snps;35 99
+sequence;AY099315;snps;5 34 109 115 149 157
+sequence;AF456044;snps;79 108
+sequence;cp000086;snps;28 36 58 59 70 71 78 118
+sequence;AY619683;snps;41 55 67 101
+sequence;AF323985;snps;90
+sequence;AF456021;snps;123
+sequence;AF456024;snps;159
+sequence;AF456026;snps;81
+sequence;AF456027;snps;60 90 121
+sequence;AF456028;snps;60 121
+sequence;AF456029;snps;9 10 20 62 68 82
+sequence;AY392090;snps;61
+sequence;EU079003;snps;50
+sequence;EU079001;snps;50
+sequence;EU079006;snps;45
+sequence;EU079007;snps;45 49
+sequence;EU079005;snps;45 52 63
+sequence;EU079008;snps;45
+sequence;AY598028;snps;30 134
+sequence;cp000526;snps;15 28 56 58 59 70 71 98 136
+sequence;AF143792;snps;60 90 121
+sequence;AF143791;snps;60 121
+sequence;AF143790;snps;35 99
+sequence;AY951890;snps;123 124 126
+sequence;cp000440;snps;66 90
+sequence;AY951892;snps;123 133
+sequence;cp001025;snps;25 72
+sequence;AY951894;snps;123
+sequence;AY951895;snps;134 159
+sequence;AY951899;snps;95
+sequence;AM905032;snps;38 117 143
+sequence;AJ544692;snps;33 43 44 57 92 96 102 134
+sequence;EF427828;snps;53
+sequence;EF427829;snps;53
+sequence;AF456051;snps;69 96
+sequence;AF456050;snps;77
+sequence;EF427820;snps;135 139 148
+sequence;EF427821;snps;53
+sequence;EF427822;snps;53
+sequence;EF427823;snps;60 121
+sequence;EF427824;snps;11 34
+sequence;EF427825;snps;53
+sequence;EF427826;snps;53
+sequence;EF427827;snps;34
+sequence;AF456033;snps;9 10 20 62 68 82
+sequence;AF456032;snps;18 37
+sequence;AF456031;snps;35 99
+sequence;AF456037;snps;123
+sequence;AF456034;snps;81 96 125
+sequence;AY780511;snps;6 21 35 123
+sequence;AY619684;snps;41 67
+sequence;cp000868;snps;125
+sequence;EU079015;snps;25
+sequence;EU079014;snps;25
+sequence;EU079011;snps;45
+sequence;EU079010;snps;45
+sequence;EU079013;snps;25
+sequence;EU079012;snps;25
+sequence;AM748103;snps;18
+sequence;AM748100;snps;73
+sequence;EU079019;snps;29 64 99
+sequence;AY099316;snps;5 34 109 115
+sequence;AY951882;snps;80 84 93 104 106 111 114 116 119
+sequence;AY951884;snps;128
+sequence;EF427839;snps;34 139 146 153 154
+sequence;EF427838;snps;53
+sequence;AY951898;snps;41
+sequence;EF427833;snps;25
+sequence;EF427832;snps;53
+sequence;EF427830;snps;53
+sequence;EF427837;snps;53
+sequence;EF427836;snps;13
+sequence;EF427835;snps;34 55 128
+sequence;AF456006;snps;42 43
+sequence;AF456007;snps;25 32
+sequence;AF456005;snps;90
+sequence;AJ786367;snps;16 36 37 69 122
+sequence;AF456003;snps;25
+sequence;AF456008;snps;56 99
+sequence;EF490985;snps;60
+sequence;EF427789;snps;8
+sequence;cp000548;snps;15 28 56 58 59 70 71 98 136
+sequence;FJ555025;snps;14
+sequence;AF456059;snps;6 96
+sequence;BCU70431;snps;125
+sequence;cp000546;snps;15 28 56 58 59 70 71 98 136
+sequence;AF456058;snps;96 125
+sequence;AY324808;snps;9 10 20 62 68 76 82 108
+sequence;EF427809;snps;12 14
+sequence;EF427801;snps;69 108
+sequence;AF323971;snps;9 10 20 62 68 82
+sequence;AF456030;snps;9 10 20 62 68 82
+sequence;cp000151;snps;72
+sequence;cp000124;snps;15 28 56 58 59 70 71 136
+sequence;AY099311;snps;81 87
+sequence;AY099312;snps;18 74 123
+sequence;EF427813;snps;138
+sequence;EF427816;snps;160
+sequence;EF427819;snps;53
+sequence;EF427818;snps;53
+sequence;AY951902;snps;113 145 146 151 155
+sequence;AY951903;snps;83 85 150 161 162 163 164
+sequence;AY951900;snps;56 128
+sequence;AY951907;snps;60 121
+sequence;AY951904;snps;22
+sequence;AY951909;snps;60 121
+sequence;AF456019;snps;17 99
+sequence;AY099314;snps;34 112
+sequence;cp001043;snps;1 3 4 6 17 19 20 21 28 29 33 35 39 40 41 46 47 48 51 58 60 61 62 66 68 70 92 97 100 110 118 123 131 139 140 141 142 156 158
+sequence;AF456014_2;snps;139
+sequence;AF456014_3;snps;139
+sequence;AF456014_1;snps;139
+sequence;AF456015;snps;88 107
+sequence;AF456016;snps;117
+sequence;EF602578;snps;45 52 54
+sequence;EF602575;snps;147
+sequence;EF602576;snps;24
+sequence;FJ555045;snps;62 77 92 128
+sequence;FJ555046;snps;91 128 130 152
+sequence;FJ555043;snps;56 120
+sequence;FJ555042;snps;62 77 128 129
+sequence;AF456067;snps;88
+sequence;AY951914;snps;25
+sequence;AY619682;snps;7 41 55
+sequence;cp000572;snps;15 28 56 58 59 70 71 136
+sequence;AY951911;snps;2 90
+sequence;AY951910;snps;25 27 123
+sequence;AY951913;snps;25
+sequence;AM922302;snps;33
+sequence;AF456011;snps;38 105
+sequence;AM922300;snps;41
+sequence;AF456068;snps;23
+sequence;AF456069;snps;17 79
+sequence;AM748105;snps;5 34 109 115
+sequence;AF456060;snps;33 43 44 52 57 92 96 102 134
+sequence;AF456061;snps;33 43 44 57 92 96 102 134
+sequence;AF456063;snps;65
+sequence;AY951891;snps;123 126
+sequence;ap009385;snps;125
+sequence;EF408665;snps;75
+sequence;AY753187;snps;9 10 20 62 68 76 82 108
+sequence;EU079020;snps;29 31 64 99
+sequence;EU079021;snps;29 64 99
+sequence;EU079022;snps;45
+sequence;EU079023;snps;18 37
+sequence;AM748098;snps;62 132 137
+sequence;AM748099;snps;41
+sequence;FJ555033;snps;79 110
+sequence;FJ555034;snps;79
+sequence;cp000010;snps;15 28 56 58 59 70 71 98 136
+sequence;AM748094;snps;5
+sequence;AM748095;snps;12 17
+sequence;AF143775;snps;125
+sequence;AF143779;snps;103
+sequence;AF143778;snps;53
